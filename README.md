@@ -1,4 +1,4 @@
-# "Visit Bath" - A User-Centred Website Design Project
+# Bath - A weekend city break website
 
 ## 📝 Project Overview
 
